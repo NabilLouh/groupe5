@@ -1,0 +1,39 @@
+.container8{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    position: relative;
+    width: 100%;
+}
+
+.text8{
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text8 span{
+    text-decoration: underline blue;
+}
+
+.container-svg8{
+    position: absolute;
+    top: 0;
+}
+
+.container8 a{
+    text-decoration: none;
+    background-color: #0e81d2;
+    width: 100px;
+    font-size: 16px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
