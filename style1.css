@@ -1,0 +1,91 @@
+
+/* css du nav */
+.header1{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.logo1{
+    width: 180px;
+    max-width: 100%;
+}
+
+.main-nav1{
+    width: 60%;
+}
+
+.main-nav1 ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-nav1 li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.main-nav1 a{
+    text-decoration: none;
+    color: rgb(61, 56, 56);
+    font-weight: 700;
+
+}
+
+.bouton1{
+    background-color: #0e81d2;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+ #style-btn1{
+    color: white;
+}
+
+/* css de la section avec image */
+
+.section1{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.section-text1{
+    width: 60%;
+    justify-content: flex-end;
+    margin: 0 0 0 70px;
+}
+
+.section1 img{
+    width: 40%;
+    margin: 50px;
+}
+
+.section-bouton1{
+    background-color: #0e81d2;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.section-text1 p{
+    margin-bottom: 40px;
+    font-size: 24px;
+}
+
+.section-text1 h2{
+    font-size: 60px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.section-text1 span{
+    text-decoration: underline #0e81d2;
+    
+}
