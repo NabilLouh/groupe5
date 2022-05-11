@@ -1,0 +1,31 @@
+.p11-green-phone
+{
+    background-color: #E1FFC7;
+    padding: 10px 200px 10px 30px;
+    border-radius: 10px 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.p11-grey-phone
+{
+    background-color: white;
+    padding: 10px 200px 10px 30px;
+    border-radius: 10px 10px;
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.p11-green-phone > span {
+    color:blue
+}
+
+.p11-grey-phone > span {
+    color:blue
+}
+
+.mb-5 {
+    margin-bottom: 12rem!important;
+}
+
