@@ -1,0 +1,69 @@
+.part6 {
+    display: flex;
+    width: 90%;
+    margin:auto;
+    height: 100vh;
+
+}
+
+.text6 {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.ima6 {
+    background-color: blue;
+    width: 50%;
+}
+
+.main6 {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.case6 {
+    width: 42%;
+    margin-bottom: 20px;
+    
+    margin-right:10px;
+}
+
+.plien6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.lien6 {
+    text-decoration:none;
+    background-color: blue;
+    color: white;
+    padding:10px;
+    border-radius: 5px;
+}
+
+.lien6:hover {
+    background-color: white;
+    color: blue;
+    border: solid blue 1px;
+}
+
+.titre6 {
+    font-size: 20px;
+    text-align:justify;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 30px;
+}
+
+.case6 h2 {
+    font-size: 15px;
+}
+
+.img6 {
+    height:700px;
+    
+}
+
