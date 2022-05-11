@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: #F9FCFF;
 }
@@ -106,4 +107,35 @@ p:last-child{
     width: 525px;
     height: 230px;
     margin-top: 50px;
+=======
+.divp2h2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.p2p{
+    /* display: flex; */
+    width: 40%;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+}
+.divp2text{
+    display: flex;
+    justify-content: center;
+}
+
+.p2h2{
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+}
+
+.p2video{
+    width: 70%;
+    height: 50%;
+}
+
+.containervideop2{
+    display: flex;
+    justify-content: center;
+>>>>>>> feature/gwenael_p2
 }
