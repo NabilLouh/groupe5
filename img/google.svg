@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300"><defs><linearGradient id="grd1" gradientUnits="userSpaceOnUse" x1="194.708" y1="195.296" x2="292.182" y2="195.296"><stop offset="0" stop-color="#e96f0b"></stop><stop offset="1" stop-color="#f37901"></stop></linearGradient></defs><style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffc517 } 
+		.shp1 { fill: #f57e02 } 
+		.shp2 { fill: url(#grd1) } 
+	</style><g id="Layer"><path id="Layer" fill-rule="evenodd" class="shp0" d="M136.25 293L30.5 293C17.51 293 7 282.49 7 269.5L7 218.79C7 205.8 17.51 195.29 30.5 195.29L97.29 195.29L97.29 121.08C97.29 108.09 107.8 97.58 120.79 97.58L195 97.58L195 292.38L136.25 292.38L136.25 293Z"></path><path id="Layer" fill-rule="evenodd" class="shp1" d="M269.21 293L195 293L195 30.79C195 17.81 205.51 7.29 218.5 7.29L269.21 7.29C282.19 7.29 292.71 17.81 292.71 30.79L292.71 269.5C292.09 282.49 281.58 293 269.21 293L269.21 293Z"></path><path id="Layer" fill-rule="evenodd" class="shp2" d="M292.09 195.29L292.09 269.5C292.09 272.59 291.48 275.64 290.3 278.49C289.12 281.34 287.39 283.93 285.21 286.12C283.02 288.3 280.43 290.03 277.58 291.21C274.73 292.39 271.68 293 268.59 293L194.38 293L194.38 97.58L292.09 195.29Z"></path></g></svg>
