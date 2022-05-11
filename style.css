@@ -1,0 +1,109 @@
+body{
+    background-color: #F9FCFF;
+}
+.containerp5{
+    display: flex;
+    padding: 40px;
+    padding: 79px 190px 0px 150px
+}
+
+.containertextp5{
+    width: 60%;
+    /* padding: 60px; */
+    /* margin-right: 89px; */
+    
+}
+.containerimgp5{
+    background-color: white;
+    width: 40%;
+    height: 500px;
+    position: relative;
+}
+.p1p5{
+    width: 646px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+}
+
+.p2p5{
+    width: 646px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.ap5{
+    font-family: 'Mulish', sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+p:last-child{
+    margin-bottom: 50px;
+}
+
+.h2p5{
+    font-family: 'Mulish', sans-serif;
+    font-size: 34px;
+    width: 610px;
+}
+
+.playp5{
+    background-color: #F2F7F9;
+    display: flex;
+    position: absolute;
+    width: 100%;
+    right: 20px;
+    top: 20px;
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: 1px 7px 15px -12px #000000   ;
+}
+
+.imgplayp5{
+    background-image: url(../groupe5/Capture\ d’écran\ 2022-05-11\ 141321.png);
+    height: 60px;
+    width: 60px;
+    background-position: 60px;
+    margin-right: 70px;
+}
+
+.h3playp5{
+    font-family: 'Mulish', sans-serif;
+}
+
+.play2p5{
+    background-color: #F2F7F9;
+    display: flex;
+    width:450px;
+    right: 20px;
+    top: 20px;
+    padding: 8px;
+    border-radius: 6px;
+    margin-top: 115px;
+    margin-left: 25px;
+    align-items: center;
+    opacity: 0.5;
+    box-shadow:1px 7px 15px -12px #000000;
+}
+
+.cratrep5{
+    background-color: gray;
+    width: 10px;
+    height: 20px;
+    margin: 1px;
+    
+}
+
+.esp{
+    background-color: transparent;
+    width: 10px;
+    height: 20px;
+    margin: 1px;
+    
+}
+
+.videop5{
+    width: 525px;
+    height: 230px;
+    margin-top: 50px;
+}
